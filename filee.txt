@@ -1,0 +1,6 @@
+{
+  "name": "Imad Khan",
+  "age": 21
+}
+[object Object]
+[object Object]
